@@ -1,1 +1,1 @@
-<img src="cat_plot.jpg" alt="img" width="600"/> 
+<img src="cat_plot.png" alt="img" width="600"/> 
